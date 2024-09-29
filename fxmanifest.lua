@@ -21,7 +21,7 @@ client_scripts {
 
 server_scripts {
     'server-side/version_check.lua',
-    'server-side/ghsxth_entityset_mods.lua',,
+    'server-side/ghsxth_entityset_mods.lua',
 }
 
 dependencies { 
